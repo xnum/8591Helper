@@ -1,8 +1,4 @@
-﻿---
-layout: default
-title: Chrome 擴充套件: 8591小幫手
-description: 這是一個幫助瀏覽和過濾8591資訊的chrome擴充套件
----
+﻿
 
 目前的功能為
 
