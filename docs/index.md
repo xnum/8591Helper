@@ -1,4 +1,5 @@
 
+[安裝擴充套件](https://chrome.google.com/webstore/detail/8591%E5%B0%8F%E5%B9%AB%E6%89%8B/embdikfflbaidhilnilnbkobojbjikia?utm_source=chrome-app-launcher-info-dialog)
 
 目前的功能為
 
