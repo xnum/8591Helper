@@ -276,6 +276,16 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat bottom left;
 }
 
+.store_download_link {
+  display: block;
+  float: right;
+  width: 340px;
+  height:96px;
+  text-indent: -5000px;
+  overflow: hidden;
+  background: url(../images/store.png) no-repeat;
+}
+
 .tar_download_link {
   display: block;
   float: right;
