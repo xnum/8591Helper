@@ -1,14 +1,14 @@
----
+ï»¿---
 layout: default
-title: Chrome ÂX¥R®M¥ó: 8591¤pÀ°¤â
-description: ³o¬O¤@­ÓÀ°§UÂsÄý©M¹LÂo8591¸ê°TªºchromeÂX¥R®M¥ó
+title: Chrome æ“´å……å¥—ä»¶: 8591å°å¹«æ‰‹
+description: é€™æ˜¯ä¸€å€‹å¹«åŠ©ç€è¦½å’ŒéŽæ¿¾8591è³‡è¨Šçš„chromeæ“´å……å¥—ä»¶
 ---
 
-¥Ø«eªº¥\¯à¬°
+ç›®å‰çš„åŠŸèƒ½ç‚º
 
-- ÁôÂÃ½æ³õ¤ÀÃþ
-- ÁôÂÃ½æ³õ¥æ³f®É¶¡
-- ³]©w¶Â¦W³æÃöÁä¦r©Î½æ®a½s¸¹
-  - ½Õ¾ã¶Â¦W³æ½æ³õªº³z©ú«×
-  - §¹¥þÁôÂÃ¶Â¦W³æ½æ³õ
-- ¦b½æ³õ¦CªíÅã¥Ü½æ®a½s¸¹¡A¨Ã¥[¤W­I´º¦â¤è«KÃÑ§O
+- éš±è—è³£å ´åˆ†é¡ž
+- éš±è—è³£å ´äº¤è²¨æ™‚é–“
+- è¨­å®šé»‘åå–®é—œéµå­—æˆ–è³£å®¶ç·¨è™Ÿ
+  - èª¿æ•´é»‘åå–®è³£å ´çš„é€æ˜Žåº¦
+  - å®Œå…¨éš±è—é»‘åå–®è³£å ´
+- åœ¨è³£å ´åˆ—è¡¨é¡¯ç¤ºè³£å®¶ç·¨è™Ÿï¼Œä¸¦åŠ ä¸ŠèƒŒæ™¯è‰²æ–¹ä¾¿è­˜åˆ¥
