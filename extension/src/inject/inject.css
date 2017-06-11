@@ -1,0 +1,7 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+#wc_list .detail_link:visited, .detail_link:visited
+{
+    color: #add2eb !important;
+}
